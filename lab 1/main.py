@@ -123,5 +123,5 @@ while True:
             print("Постачальника видалено")
 
     if choice == 5:
-        print("На все добре!")
+        print("На все добре!!")
         break

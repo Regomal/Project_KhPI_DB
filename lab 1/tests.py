@@ -10,3 +10,4 @@ test_suppliers = [
     Supplier("Олія-Плюс", "Соняшникова олія", date(2026, 3, 25), 62.0, None, None, "oil.jpg"),
     Supplier("Винний Дім", "Вино", date(2026, 9, 30), 310.0, "+38031444", "winery@vine.ua", "wine.jpg")
 ]
+
